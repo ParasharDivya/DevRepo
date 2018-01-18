@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DivyaPOC</string>
+
+    <string name="tech">TECHNOLOGIE</string>
+    <string name="design">DESIGN</string>
+    <string name="movie">MOVIE</string>
+    <string name="politics">POLITICS</string>
+    <string name="sports">SPORTS</string>
+
+</resources>
